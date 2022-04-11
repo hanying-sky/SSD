@@ -1,0 +1,156 @@
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/106.jpg 369,62,404,110,0 503,176,524,204,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1068.jpg 238,189,263,219,0 364,207,381,227,0 278,218,296,241,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1076.jpg 260,150,286,184,0 379,141,417,185,0 41,110,70,157,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1110.jpg 451,191,474,217,0 513,209,531,232,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1112.jpg 374,182,394,208,0 440,205,457,230,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1146.jpg 261,186,288,215,0 423,164,454,196,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1148.jpg 193,148,225,182,0 288,178,305,204,0 370,118,405,156,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1149.jpg 305,82,345,129,0 134,124,171,173,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1156.jpg 79,212,101,236,0 509,161,537,203,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1162.jpg 225,193,246,218,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1184.jpg 204,149,237,184,0 406,186,434,217,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1187.jpg 320,130,356,173,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1207.jpg 469,157,500,189,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1211.jpg 431,126,465,172,0 284,18,339,82,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1213.jpg 288,57,336,110,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1224.jpg 139,124,175,163,0 366,84,408,133,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1262.jpg 72,93,107,140,0 213,233,230,253,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1269.jpg 222,141,255,172,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1313.jpg 238,168,266,199,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1315.jpg 159,112,193,153,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1355.jpg 411,150,443,183,0 488,181,514,215,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/137.jpg 146,105,180,150,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1378.jpg 218,150,250,182,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1497.jpg 378,192,398,218,0 437,111,475,153,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1513.jpg 432,140,460,174,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1520.jpg 478,155,499,187,0 382,184,406,212,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1527.jpg 52,72,97,119,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1653.jpg 1,44,59,115,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1702.jpg 359,140,408,201,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1767.jpg 448,169,476,206,0 373,189,400,217,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1770.jpg 200,140,236,175,0 300,86,345,136,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1857.jpg 235,187,260,218,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1860.jpg 249,202,270,229,0 138,147,170,186,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/1955.jpg 237,192,263,220,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/209.jpg 178,151,214,192,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/290.jpg 384,127,422,168,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/297.jpg 425,122,459,164,0 239,161,272,201,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/35.jpg 468,141,499,181,0 392,184,416,211,0 236,183,263,208,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/424.jpg 231,168,257,195,0 406,184,433,210,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/425.jpg 193,139,222,176,0 391,157,426,193,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/484.jpg 474,179,502,211,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/678.jpg 368,96,410,142,0 477,171,507,199,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/679.jpg 304,47,347,105,0 443,158,470,196,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/688.jpg 434,170,462,204,0 493,172,523,201,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/731.jpg 391,78,428,120,0 164,2,218,61,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/733.jpg 64,93,109,138,0 237,1,289,56,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/793.jpg 408,179,439,216,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/794.jpg 224,242,236,256,0 374,160,407,200,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/851.jpg 262,171,284,201,0 358,183,381,211,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/858.jpg 126,15,176,69,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/965.jpg 259,198,284,222,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1109.jpg 284,78,370,168,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1112.jpg 270,74,287,95,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1152.jpg 209,52,238,85,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask116.jpg 221,96,260,135,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1161.jpg 193,56,228,85,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1164.jpg 181,62,210,88,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1191.jpg 254,92,271,110,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1209.jpg 212,106,243,141,1 90,108,122,140,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1237.jpg 142,108,160,128,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1270.jpg 188,143,211,169,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1346.jpg 296,97,324,125,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1392.jpg 244,101,267,128,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1398.jpg 101,65,114,80,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1400.jpg 114,63,126,76,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1408.jpg 139,61,153,80,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1417.jpg 309,103,331,131,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1486.jpg 231,77,253,108,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1511.jpg 212,61,241,93,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1516.jpg 253,126,285,168,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1524.jpg 202,85,237,131,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1526.jpg 223,86,260,133,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1592.jpg 193,101,219,128,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1594.jpg 224,93,250,116,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1595.jpg 253,92,281,121,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1605.jpg 328,100,348,120,1 268,96,289,116,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1613.jpg 252,93,271,119,1 327,107,345,132,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1619.jpg 248,91,268,115,1 319,103,339,126,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask1803.jpg 284,107,310,139,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask2100.jpg 341,61,372,92,1 145,72,174,100,1 191,81,217,109,1 411,103,435,121,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask2101.jpg 409,105,431,125,1 335,62,362,91,1 141,74,169,101,1 193,88,214,111,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask2102.jpg 134,74,160,106,1 198,89,225,119,1 319,63,344,94,1 401,106,422,124,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask2108.jpg 139,81,165,112,1 213,91,236,117,1 298,68,322,98,1 397,112,420,130,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask2214.jpg 225,101,253,138,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask2219.jpg 265,100,293,132,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask2228.jpg 255,74,285,109,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask2234.jpg 232,67,262,109,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask2269.jpg 155,89,193,137,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask2274.jpg 387,98,430,150,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask269.jpg 207,58,237,97,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask273.jpg 197,69,237,110,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask299.jpg 144,70,172,97,1 203,81,228,109,1 344,56,375,90,1 411,99,435,119,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask98.jpg 335,69,358,105,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/mask99.jpg 333,66,358,104,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(105).jpg 324,216,677,580,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(120).jpg 153,317,218,383,0 402,356,455,429,0 561,375,617,440,0 785,409,833,475,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(122).jpg 252,363,368,494,0 791,469,897,591,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(135).jpg 485,239,745,514,0 38,526,138,706,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(136).jpg 203,259,460,573,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(143).jpg 264,266,514,535,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(151).jpg 320,254,630,538,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(153).jpg 421,232,615,426,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(154).jpg 442,285,516,367,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(164).jpg 585,179,680,294,0 729,79,830,199,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(173).jpg 410,453,629,708,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(182).jpg 358,275,605,577,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(194).jpg 356,482,674,862,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(198).jpg 253,163,349,251,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(212).jpg 207,201,306,297,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(220).jpg 368,112,463,241,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(225).jpg 370,120,444,199,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(23).jpg 354,287,667,593,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(232).jpg 296,348,405,460,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(237).jpg 520,187,704,387,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(239).jpg 628,249,809,452,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(240).jpg 613,168,793,399,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(244).jpg 322,336,673,732,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(265).jpg 384,366,733,689,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(271).jpg 254,222,481,460,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(278).jpg 304,457,635,831,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(288).jpg 380,235,594,535,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(289).jpg 215,65,279,128,0 725,78,809,157,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(299).jpg 64,212,337,534,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(305).jpg 113,220,192,294,0 808,210,888,288,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(330).jpg 88,234,351,526,0 405,223,659,486,0 683,402,899,625,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(336).jpg 301,119,433,281,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(341).jpg 534,127,676,292,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(351).jpg 559,218,795,455,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(359).jpg 106,172,186,252,0 275,118,353,196,0 455,63,530,139,0 644,69,712,140,0 827,125,897,204,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(373).jpg 287,169,395,263,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(397).jpg 343,254,499,436,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(408).jpg 467,139,594,265,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(423).jpg 286,352,415,489,0 464,202,576,329,0 694,249,854,402,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(427).jpg 49,34,311,315,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(435).jpg 129,90,214,190,0 433,71,535,189,0 806,96,897,204,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(448).jpg 592,133,808,376,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(464).jpg 315,160,503,344,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(480).jpg 546,117,670,236,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(485).jpg 85,104,226,280,1 308,88,458,273,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(488).jpg 216,78,278,140,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(495).jpg 347,99,469,222,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(508).jpg 143,172,379,412,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(518).jpg 70,258,456,577,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(519).jpg 130,156,329,365,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(55).jpg 387,257,720,596,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(556).jpg 80,102,224,240,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(561).jpg 93,88,200,210,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(565).jpg 48,80,271,334,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(57).jpg 318,293,618,616,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(587).jpg 152,51,205,103,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(604).jpg 99,52,136,91,1
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(64).jpg 269,427,660,802,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(81).jpg 575,143,681,263,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(83).jpg 467,156,675,368,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(89).jpg 443,332,798,707,0
+D:\asource\ssd-tf2-master/VOCdevkit/VOC2007/JPEGImages/train(92).jpg 358,354,695,770,0
